@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105703819575",
+    "project_id": "lightchat-60371",
+    "storage_bucket": "lightchat-60371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105703819575:android:18773161f82f8f5c01f2b2",
+        "android_client_info": {
+          "package_name": "com.example.w_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105703819575-h9hck85rq3rhklamcpqjkc5ueme0m1kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0c2OVMwsM9IOGN8XbYqI5MsWfAUeX1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105703819575-h9hck85rq3rhklamcpqjkc5ueme0m1kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
